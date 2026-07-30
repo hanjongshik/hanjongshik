@@ -24,3 +24,10 @@ Build reusable data products for quantitative research.
 
 - Transform ideas into reusable products.
 - Build reusable data products that empower a One-Person Company to grow into a Virtual N-Person Company.
+
+# Philosophy
+
+- Technology is the bead.
+- Products are the thread.
+- GitHub is the company.
+- AI is the workforce.
