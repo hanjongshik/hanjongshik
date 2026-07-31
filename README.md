@@ -1,7 +1,5 @@
 # Han Data Factory
 
-> GitHub는 이력서가 아니라 회사다. (ChatGPT가 시켰음)
-
 ## Mission
 
 Build reusable data products for quantitative research.
