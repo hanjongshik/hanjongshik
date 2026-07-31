@@ -27,7 +27,7 @@ Build reusable data products for quantitative research.
 
 # Philosophy
 
-- Technology is the bead.
-- Products are the thread.
-- GitHub is the company.
-- AI is the workforce.
+- Technology is the bead. 기술은 구슬이다.
+- Products are the thread. Product는 그것을 꿰는 실이다.
+- GitHub is the company. GitHub는 회사(공사판)이다.
+- Build products that stand the test of time. 그리고 회사(공사판)는 오래도록 가치 있는 Product를 만든다.
