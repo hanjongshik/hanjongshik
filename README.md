@@ -1,4 +1,5 @@
 # Han Data Factory
+정보처리기술사 / 데이터엔지니어
 
 ## Mission
 
