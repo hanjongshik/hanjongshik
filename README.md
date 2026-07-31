@@ -7,14 +7,14 @@ Build reusable data products for quantitative research.
 ## Core Technologies
 
 - Python
-- DuckDB
+- DuckDB, MongoDB, RDB ,....
 - SQL
 - AI
 - Automation
 
 ## Current Products
 
-- Stock Data Factory (Planning)
+- Data Factory (Planning)
 - Feature Factory (Planning)
 - DB Toolkit (Planning)
 - Pipeline Factory (Planning)
