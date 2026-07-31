@@ -17,6 +17,7 @@ Build reusable data products for quantitative research.
 - Stock Data Factory (Planning)
 - Feature Factory (Planning)
 - DuckDB Toolkit (Planning)
+- AirFlow Toolkit (Planning)
 
 ## Vision
 
